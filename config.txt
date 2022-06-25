@@ -1,0 +1,1 @@
+{"ip":"GULUU.aternos.me","name":"GULUU SMP","port":"55719"}
